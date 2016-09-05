@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/benoror/proxy_blog_xt014_d/issues"
   },
-  "homepage": "https://github.com/benoror/proxy_blog_xt014_d#readme"
+  "homepage": "https://github.com/benoror/proxy_blog_xt014_d#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http-proxy-middleware": "^0.17.1"
+  }
 }
