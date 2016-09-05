@@ -1,0 +1,19 @@
+{
+  "name": "proxy_blog_xt014_d",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoror/proxy_blog_xt014_d.git"
+  },
+  "author": "Ben Orozco <benoror@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benoror/proxy_blog_xt014_d/issues"
+  },
+  "homepage": "https://github.com/benoror/proxy_blog_xt014_d#readme"
+}
